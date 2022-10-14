@@ -1,6 +1,6 @@
 <?php
 
-define('API_KEY',"5526182330:AAFgcQaEF5l123tvmduAlMOJgxdjJ6_U04A"); 
+define('API_KEY',"5666079820:AAHhpQ_BEu5Z4HqorwLfR1WZuja_jUIBRds"); 
 
 $admin = "5012555808";
 
